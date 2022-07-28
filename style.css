@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.text-color{
+    color: rgb(250, 144, 14);
+}
+/*=============== height for carousel image  =============*/
+.height{
+    height:670px;
+}
+.height img {
+    max-height: 100%;
+}
+.height img {
+    opacity: 0.8;
+}
+/*===============  carousel  image text background  =============*/
+.text-bg{background: rgba(2, 2, 2, 0.425);
+}
+.button{
+    background-color:  #0dcaf0;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+}
+.button a{
+    text-decoration: none;
+    color:white;
+    font-weight: 600;
+
+}
